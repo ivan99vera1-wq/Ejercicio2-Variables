@@ -78,15 +78,6 @@ Ejercicio2-Variables/
 └── README.md
 ```
 
-## 🗺️ Ruta de aprendizaje
-
-| # | Repositorio | Tema |
-|:-:|:--|:--|
-| 1 | [HolaMundo](https://github.com/ivan99vera1-wq/Ejercicio1-HolaMundo) | Primer programa, imprimir texto |
-| **2** | 📦 **Ejercicio2-Variables** *(este)* | Variables y tipos de datos |
-| 3 | [Ejercicio3-Sumar](https://github.com/ivan99vera1-wq/Ejercicio3-Sumar) | Operador suma |
-| 4 | [Ejercicio4-Calculadora](https://github.com/ivan99vera1-wq/Ejercicio4-Calculadora) | Las 4 operaciones básicas |
-
 ---
 
 <div align="center">
